@@ -1,10 +1,8 @@
-<!DOCTYPE html>
 <html lang="en" dir="ltr">
 
 <head>
   <meta charset="utf-8">
-  <title>Daniel Gladstone's Personal Site</title>
-</head>
+  </head>
 
 <body>
   <table cellspacing = "20">
